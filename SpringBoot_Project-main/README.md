@@ -1,7 +1,7 @@
 # SpringBoot_Project
 
 ### Overview
-This project is a full-stack web application built with Spring Boot. It provides a user to efficiently manage employee records where users can add, delete, and modify records for enhanced workforce management—operations on employee data. The application follows the MVC (Model-View-Controller) architecture and includes both front-end and back-end components.
+This project is a server side full stack web application built with Spring Boot. It provides a user to efficiently manage employee records where users can add, delete, and modify records for enhanced workforce management—operations on employee data. The application follows the MVC (Model-View-Controller) architecture and includes both front-end and back-end components.
 
 ### Features
 Worforce Management
